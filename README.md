@@ -34,7 +34,7 @@ I am currently pursuing a Computer Science Specialist degree at the University o
 
 ---
 
-## 🏆 Badges & Effects
+## 🏆 Badges
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MengYue-MK2000&color=brightgreen&style=flat)
 ![Stars](https://img.shields.io/github/stars/MengYue-MK2000?style=flat)
