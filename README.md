@@ -31,12 +31,6 @@ I am currently pursuing a Computer Science Specialist degree at the University o
   <img src="https://github-readme-stats.vercel.app/api?username=MengYue-MK2000&show_icons=true&theme=tokyonight&count_private=true" alt="MengYue-MK2000's GitHub Stats" height="180"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MengYue-MK2000/MengYue-MK2000/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MengYue-MK2000/MengYue-MK2000//output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MengYue-MK2000/MengYue-MK2000/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 ## 🏆 Badges
